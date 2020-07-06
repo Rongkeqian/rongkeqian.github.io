@@ -2,31 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 大倩的博客</title>
-    <link>http://example.org/posts/</link>
+    <link>http://rongkeqian.github.io/posts/</link>
     <description>Recent content in Posts on 大倩的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <lastBuildDate>Sun, 05 Jul 2020 21:55:57 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 21:30:40 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rongkeqian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>第二篇博客</title>
-      <link>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Sun, 05 Jul 2020 21:55:57 +0800</pubDate>
-      
-      <guid>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description>这是我第二次写博客 希望能给大家带来更多的东西</description>
-    </item>
     
     <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>http://rongkeqian.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Sun, 05 Jul 2020 21:30:40 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      <description>大家好 我的博客开通了，希望写出好文章给大家看</description>
+      <guid>http://rongkeqian.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <description>大家好 我的博客开通了，希望写出好文章给大家看
+添加一些东西</description>
     </item>
     
   </channel>

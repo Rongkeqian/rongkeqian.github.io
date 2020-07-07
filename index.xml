@@ -6,10 +6,25 @@
     <description>Recent content on 大倩的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
-    <lastBuildDate>Mon, 06 Jul 2020 21:34:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 18:29:17 +0800</lastBuildDate>
     
 	<atom:link href="http://rongkeqian.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HTML常用的标签</title>
+      <link>http://rongkeqian.github.io/posts/html%E5%B8%B8%E7%94%A8%E7%9A%84%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Tue, 07 Jul 2020 18:29:17 +0800</pubDate>
+      
+      <guid>http://rongkeqian.github.io/posts/html%E5%B8%B8%E7%94%A8%E7%9A%84%E6%A0%87%E7%AD%BE/</guid>
+      <description>HTML 重点标签 1、&amp;lt;a&amp;gt;标签   作用：
+ 跳转外部页面 跳转内部锚点 跳转到邮箱或者电话    属性
+ href :超文本链接 traget：在哪个窗口打开链接 download ：忘记好了，现在也没有用 rel=noopener:：打开一个外部链接（涉及安全问题）    a 的 href 的取值
+ 网址：HTTPS://google.com 跳转到 google 网址：HTTP：//google.com 跳转到 google w 网址：//google.com 浏览器自动选择适用的网址（有没有更高级）      路径
+  伪协议
+  a 的 target 的取值：
+ _blank:空白的页面打开 _top:顶级窗口打开 _parent:当前窗口的父级窗口打开 _self:自己的窗口打开（默认值）    程序员命名   2、&amp;lt;table&amp;gt;标签  相关的标签  table thead tbody tfoot tr //table row 行 th 表头 td 数据      相关的样式  table-layout border-collapse //是否合并边框 border-spacing //相邻单元格的间隙    3、&amp;lt;img&amp;gt;标签  作用：发出 get 请求，展示一张图片    属性：</description>
+    </item>
     
     <item>
       <title>HTML入门笔记1</title>
@@ -17,7 +32,7 @@
       <pubDate>Mon, 06 Jul 2020 21:34:58 +0800</pubDate>
       
       <guid>http://rongkeqian.github.io/posts/html%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B01/</guid>
-      <description>HTML 入门笔记 HTML 是由 Web 的发明者 Tim Berners-Lee 于 1990（我们一样的，我不能永恒，你应该可以）创立的一种标记语言。
+      <description>HTML 入门笔记 HTML 是由 Web 的发明者 Tim Berners-Lee 于 1990（我们一样的，我不能永恒，你应该可以）创立的一种标记语言。 他自己写了第一个浏览器、服务器，用自己写的浏览器访问了自己写的服务器。 发明了 www，同时发明了 HTML、HTTP 和 URL。
 HTML 的起手怎么写：图
 常用的表章节的标签有哪些，分别是：  h1~h6 标题 section 章节 article 文章 P 段落 header 头部 footer 脚部 main 主要内容 aside 旁支内容 div 划分  全局属性有哪些  class 类   contenteditable 使元素可以编辑 hidden 隐藏 id 元素的唯一 id style 元素的行内 CSS 样式 tabindex 元素的 tab 键次序 title 有关元素的额外信息  常用的内容标签  ol+li(ordered list+list item) 有序列表 ul+li(unordered list + list item) 无序列表 dl+dt+dd(description list + item +data ) pre 在需要使用很多空格是有 pre 标签包裹 code 需要写代码时使用 hr 分割线 br 换行 a 超文本链接 注意：target=&amp;rdquo;_blank&amp;rdquo; 时，重新开窗口打开。 em 强调 语气强调 strong 重要，强调事情 quote 引用内联 blockquote 块级引用   </description>
     </item>
